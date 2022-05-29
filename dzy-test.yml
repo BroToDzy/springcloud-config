@@ -1,1 +1,2 @@
-hello! it is my test!
+config:
+  info: "main branch,springcloud-config/dzy-test.yml  version=1.0"
